@@ -1,4 +1,13 @@
 {
+  "name": "antiraid-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "@discordx/importer": "^1.1.10",
     "@types/cron": "^2.0.0",
