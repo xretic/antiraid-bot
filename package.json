@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@discordx/importer": "^1.1.10",
+    "@types/cron": "^2.0.0",
+    "cron": "^2.2.0",
+    "discord.js": "^14.7.1",
+    "discordx": "^11.5.2",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
